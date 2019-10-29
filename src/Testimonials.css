@@ -1,0 +1,43 @@
+.cats1 {
+ 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  border-radius: 50%;
+  
+
+}
+
+.cats {
+ 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+  border-radius: 50%;
+
+}
+
+.cats img {
+	 width:110px;
+	border-radius: 50%;
+	box-shadow: 0 0.15rem 0.35rem rgba(0, 0, 0, 0.2);
+	
+}
+
+
+.cats1 img {
+	 width:110px;
+	border-radius: 50%;
+	box-shadow: 0 0.15rem 0.35rem rgba(0, 0, 0, 0.2);
+
+}
+
+
+
+.horse  {
+	border-bottom-style: solid;
+	border-bottom-color: #d4af37;
+	border-bottom-width: thin;
+	
+}
+

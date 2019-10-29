@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 0px;
+}
+
+
+.log{
+  font-family: 'Modak', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Monoton', cursive;
+text-decoration: none;
+
+}

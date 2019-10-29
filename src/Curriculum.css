@@ -1,0 +1,120 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.
+
+.bracket {
+  display: 'grid';
+  grid-template-columns: 1fr;
+	margin: 0 auto;
+	box-shadow: 1px 1px 11px 2px rgba(0,0,0,0.1);
+	background: white;
+	border-radius: 8px;
+
+}
+
+.curr{
+font-family: 'Lato', sans-serif;
+
+
+}
+
+.like {
+  font-family: 'Libre Caslon Display', serif;
+}
+
+
+
+.headers{
+font-family: 'Rasa', serif; 
+/*font-family: 'Rambla', sans-serif;*/
+
+}
+
+
+.mainBody{
+font-family: 'Oranienbaum', serif;
+ 
+
+}
+
+td.frog{
+  padding: 8px;
+
+  }
+
+th, td {
+  
+  text-align: left;
+  border-bottom: 1px solid #d4af37;
+}
+
+tr.no-bottom-border td {
+  border-bottom: none
+}
+
+
+.ink {
+ 
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 5%;
+ 
+
+}
+
+.ink button {
+   width:9vw;
+   height:9vw;
+  box-shadow: 0 0.15rem 0.35rem rgba(0, 0, 0, 0.2);
+  
+  
+}
+
+
+
+
+ul.bullet{
+  list-style-type: square;
+}
+
+table.lassy {
+  table-layout: fixed ;
+  width: 100% ;
+}
+td.lassy {
+  width: 25% ;
+
+
+}
+
+
+td {
+  vertical-align: top;
+}
+
+
+td.down {
+  vertical-align: bottom;
+}
+
+
+
+
+
+
