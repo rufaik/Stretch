@@ -56,7 +56,7 @@ class Navigation extends Component{
 
 			<div>
 				<Link  to="/Contact">
-					<div className='f5 pageinfo link dim pt3 pb2 underline black mr5 pointer'>  CONTACT US </div>
+					<div className='f4 subs link dim pt3 pb2 underline black mr5 pointer'>  CONTACT US </div>
 				</Link>
 			</div>
 		</nav>

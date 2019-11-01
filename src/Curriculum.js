@@ -9,29 +9,29 @@ import './Curriculum.css'
 const Curriculum = () => {
   return (
 
-  	<div>
-  		<div>
+  	<div className = "back">
+  		<div >
     	<Navigation showLogo={true}/>
     	</div>
     	<div className="pt5">
 		<div className = 'pr1 pr4-ns pl1 pl4-ns pb4 '>
-					<div className = 'pagetitle bg-black white tc pa4 f1 f-subheadline-ns mt0'> What We Offer </div>
+					<div className = 'pagetitle bg-black white tc pa5 f1 f-subheadline-ns mt0'> What We Offer </div>
    	 
 				
-				<div  className = "ink tc mt0 mb0 ml6 mr6 pl3 pl2-ns pr3 pr2-ns pt4 pb0">
-				<a href="#1"><button className = " pageinfo black" >
-				R.E.A.C.H programme </button></a>
+				{/*<div  className = "ink tc mt0 mb0 ml6 mr6 pl3 pl2-ns pr3 pr2-ns pt4 pb0">
+								<a href="#1"><button className = " pageinfo black" >
+								R.E.A.C.H programme </button></a>
+								
+								<a href="#2"><button className = " pageinfo black" >
+								Mama and Mini fitness classes</button></a>
 				
-				<a href="#2"><button className = " pageinfo black" >
-				Mama and Mini fitness classes</button></a>
-
-				<a href="#3"><button className = " pageinfo black" >
-				Extracurricular clubs</button></a>
-
-				<a href="#4"><button className = " pageinfo black" >
-				‘Stay and play’</button></a>
+								<a href="#3"><button className = " pageinfo black" >
+								Extracurricular clubs</button></a>
 				
-				</div>
+								<a href="#4"><button className = " pageinfo black" >
+								‘Stay and play’</button></a>
+								
+								</div>*/}
 
 
 
@@ -41,7 +41,7 @@ const Curriculum = () => {
 				 <div className = 'container mt4 maeemo'>
 				    	<div style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./rungirl.jpeg' />
+				      			src='./9.jpg' className = "hey"/>
 				      	</div>
 				          	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
 								
@@ -77,7 +77,7 @@ const Curriculum = () => {
 
 				    	<div style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./runman.jpeg' />
+				      			src='./00.jpg' className = "hey"/>
 				      	</div>
 				        
 						</div>
@@ -89,7 +89,7 @@ const Curriculum = () => {
 				 <div className = 'container mt4 maeemo'>
 				    	<div style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./runman2.jpeg' />
+				      			src='./1.jpg' className = "hey"/>
 				      	</div>
 				          	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
 								
@@ -120,7 +120,7 @@ const Curriculum = () => {
 
 				    	<div style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./girls.png' />
+				      			src='./4.jpg' className = "hey" />
 				      	</div>
 				        
 						</div>

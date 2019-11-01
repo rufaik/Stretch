@@ -11,13 +11,13 @@ email: './today1.svg'
 {
 id: 2,
 name: 'Who We Are',
-email: './today2.svg'
+email: './t1.svg'
 },
 
 {
 id: 3,
 name: 'What They Say',
-email: './today3.svg'
+email: './today2.svg'
 
 }
 

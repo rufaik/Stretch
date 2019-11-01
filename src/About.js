@@ -6,11 +6,11 @@ import Navigation from './Navigation'
 
 const About = () => {
   return (
-	<div>
+	<div className = "back">
 		<Navigation showLogo={true}/>
     		<div className="pt5 tc">
 				<div className = 'pr1 pr4-ns pl1 pl4-ns pb4 '>
-					<div className = 'pagetitle bg-black white tc pa4 f1 f-subheadline-ns mt0'> Who We Are</div>
+					<div className = 'pagetitle bg-black white tc pa5 f1 f-subheadline-ns mt0'> Who We Are</div>
 				    <div className = 'container mt4 maeemo'>
 				    	<div>
 				      		<img  alt='robots' 
@@ -46,11 +46,12 @@ const About = () => {
 				
 				    </div>
 
-				    <div className = 'container maeemo'>
+				    <div className = 'container '>
 					    
 				      	<div>
 				      		<img alt='robots' 
-				      			src='./JD.jpeg'/>
+				      			src='./JDD.png' width="470"/>
+				      			
 				      	</div>
 				      	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
 									
