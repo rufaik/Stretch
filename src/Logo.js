@@ -1,6 +1,6 @@
 import React from 'react';
 import './Logo.css';
-import hers from './Big.png' 
+import hers from './stt.png' 
 import {Link} from 'react-router-dom';
 
 
