@@ -23,7 +23,7 @@ const Home = () => {
     <div className="pt5">
     <div className="tc">
 
-     <div style = {{display: 'flex', justifyContent: 'center', height: 'auto' margin: '0 auto'}} className = "responsive pb3 mb3 w-50 pa2 pa3-ns ml1 ml7-ns mr1 mr7-ns">
+     <div style = {{display: 'flex', justifyContent: 'center', height: 'auto', margin: '0 auto'}} className = "responsive pb3 mb3 w-50 pa2 pa3-ns ml1 ml7-ns mr1 mr7-ns">
     <img  alt='robots' 
       src='./stt.png' />
  
