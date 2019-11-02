@@ -32,7 +32,7 @@ class Logo extends Component{
 	render(){
 		return (
 	    
-	    <div className = 'ml5 pt3 pb2'>
+	    <div className = 'ml3 ml5-ns pt2 '>
 	      
 	      <Link to="/Home">
 	      
