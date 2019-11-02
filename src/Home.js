@@ -23,9 +23,9 @@ const Home = () => {
     <div className="pt5">
     <div className="tc">
 
-     <div  className = "title pb3 mb3 pa2 pa3-ns w-50 ml1 ml7-ns mr1 mr7-ns">
+     <div  className = "title pb3 mb3 pa2 pa3-ns ml1 ml7-ns mr1 mr7-ns">
     <img  alt='robots' 
-      src='./stt.png'/>
+      src='./stt.png' width="600"/>
  
   </div>
 
