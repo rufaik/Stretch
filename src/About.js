@@ -11,7 +11,7 @@ const About = () => {
     		<div className="pt5 tc">
 				<div className = 'pr1 pr4-ns pl1 pl4-ns pb4 '>
 					<div className = 'pagetitle bg-black white tc pa5 f1 f-subheadline-ns mt0'> Who We Are</div>
-				    <div className = 'container mt4 maeemo'>
+				    <div className = 'containers mt4 maeemo'>
 				    	<div>
 				      		<img  alt='robots' 
 				      			src='./newg.jpg'width="470" />
@@ -31,7 +31,7 @@ const About = () => {
 						</div>
 				      
 
-				    <div className = 'container maeemo'>
+				    <div className = 'containers maeemo'>
 				          	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tc pt2 pl4">
 								
 									"We believe sport and play are not 
@@ -46,7 +46,7 @@ const About = () => {
 				
 				    </div>
 
-				    <div className = 'container '>
+				    <div className = 'containers '>
 					    
 				      	<div>
 				      		<img alt='robots' 

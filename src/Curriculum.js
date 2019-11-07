@@ -39,11 +39,12 @@ const Curriculum = () => {
 				<div className= "black pl4">
 
 				 <div className = 'container mt4 maeemo'>
-				    	<div style = {{ alignSelf: 'center'}} >
+				 <div className = "row">
+				    	<div className = "col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
 				      			src='./9.jpg' className = "hey"/>
 				      	</div>
-				          	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
+				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
 								
 									<h3>R.E.A.C.H programme</h3> 
 									<p> Aimed at young people aged 11+
@@ -58,12 +59,14 @@ const Curriculum = () => {
 						</div>
 						</div>
 						</div>
+						</div>
 
 						<div id="2" s className = "f3 pb3 pt4"  > </div>
 				<div className= "black pl4">
-
 				 <div className = 'container mt4 maeemo'>
-				 	  	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
+				 <div className = "row">
+
+				 	  	<div  style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
 								
 									<h3>Mama and Mini fitness classes</h3> 
 									<p>These are created with a 
@@ -75,11 +78,11 @@ const Curriculum = () => {
 						</div>
 
 
-				    	<div style = {{ alignSelf: 'center'}} >
+				    	<div className = "col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
 				      			src='./00.jpg' className = "hey"/>
 				      	</div>
-				        
+				        </div>
 						</div>
 						</div>
 
@@ -87,11 +90,12 @@ const Curriculum = () => {
 				<div className= "black pl4">
 
 				 <div className = 'container mt4 maeemo'>
-				    	<div style = {{ alignSelf: 'center'}} >
+				 <div className = "row">
+				    	<div className ="col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
 				      			src='./1.jpg' className = "hey"/>
 				      	</div>
-				          	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
+				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
 								
 									<h3>Extracurricular clubs</h3> 
 									<p> 
@@ -102,12 +106,14 @@ const Curriculum = () => {
 						</div>
 						</div>
 						</div>
+						</div>
 
 						<div id="4" className = "f3 pb3 pt4"  > </div>
 				<div className= "black pl4">
 
 				 <div className = 'container mt4 maeemo'>
-				 	  	<div style = {{ alignSelf: 'center'}} className = "pageinfo f4 pa4 pb0 tl pt2 pl4">
+				 <div className = "row">
+				 	  	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
 								
 									<h3>'Stay and play’</h3> 
 									<p>
@@ -118,14 +124,15 @@ const Curriculum = () => {
 						</div>
 
 
-				    	<div style = {{ alignSelf: 'center'}} >
+				    	<div className ="col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
 				      			src='./4.jpg' className = "hey" />
 				      	</div>
-				        
+				        </div>
 						</div>
 						</div>
 
+						
 
 
 

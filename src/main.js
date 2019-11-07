@@ -17,7 +17,7 @@ email: './t1.svg'
 {
 id: 3,
 name: 'What They Say',
-email: './today2.svg'
+email: './today1.svg'
 
 }
 
