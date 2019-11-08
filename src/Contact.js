@@ -18,7 +18,7 @@ const Contact = () => {
          <div >
             {!success && !loading &&
                <div>
-               <article className="br3 back ba b--black-10 mv1 w-100 w-50-m pb3 w-25-l shadow-5 center">
+               <article className="br3 back ba b--black-10 mv1  w-50-m pb3 w-25-l shadow-5 center">
 <main className="pa4 pb0 black-80 measure">
 		    <fieldset id="sign_up" className="ba b--transparent ph0 mh0">
 		    <legend className=" two f1 fw6 ph0 mh0">Contact Us</legend>

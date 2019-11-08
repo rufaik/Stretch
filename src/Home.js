@@ -30,9 +30,9 @@ const Home = () => {
   </div>
 
 
-  {<div >
-      <CardList main={main}/>
-      </div>}
+  <div className = "pa3 pa0-ns" >
+      <CardList  main={main}/>
+      </div>
     </div>
     </div>
     </div>

@@ -122,5 +122,50 @@ td.down {
 
 }
 
+.horse  {
+   border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: thin;
+  
+};
 
+ @media screen and (min-width: 860px) {
+   .horse {
+    border-bottom-style: none;
+    border-bottom-color: none;
+    border-bottom-width: none;
+   }
+ };
+
+ @media screen and (min-width: 1020px) {
+   .horse {
+     border-bottom-style: none;
+    border-bottom-color: none;
+    border-bottom-width: none;
+   }
+ };
+
+ @media screen and (min-width: 767px) {
+   .horse {
+     border-bottom-style: none;
+    border-bottom-color: none;
+    border-bottom-width: none;
+   }
+ };
+
+ @media screen and (min-width: 620px) {
+   .horse {
+     border-bottom-style: none;
+    border-bottom-color: none;
+    border-bottom-width: none;
+   }
+ }
+
+ @media screen and (min-width: 420px) {
+   .horse {
+     border-bottom-style: none;
+    border-bottom-color: none;
+    border-bottom-width: none;
+   }
+ }
 

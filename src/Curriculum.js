@@ -36,7 +36,7 @@ const Curriculum = () => {
 
 
 				<div id="1" className = "f3 pb3 pt4"  > </div>
-				<div className= "black pl4">
+				<div className= "black pl0 pl4=ns">
 
 				 <div className = 'container mt4 maeemo'>
 				 <div className = "row">
@@ -44,9 +44,9 @@ const Curriculum = () => {
 				      		<img  alt='robots' 
 				      			src='./9.jpg' className = "hey"/>
 				      	</div>
-				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
+				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pt4 pt2-ns  pa4 pb0 tc tl-ns pt2 pl4">
 								
-									<h3>R.E.A.C.H programme</h3> 
+									<h3>R.E.A.C.H programme</h3>
 									<p> Aimed at young people aged 11+
 										but can be adapted for younger children.
 										Can be ran as part of the enrichment programme for years 12&13 <br></br>
@@ -61,12 +61,16 @@ const Curriculum = () => {
 						</div>
 						</div>
 
-						<div id="2" s className = "f3 pb3 pt4"  > </div>
-				<div className= "black pl4">
+						<div style = {{ width: 'auto'}}className = 'horse tc ml4 mr4 pb4 pa1'>
+    
+      	</div>
+
+						<div id="2" s className = "f3 pb3-ns pt4-ns"  > </div>
+				<div className= "black pl0 pl4=ns">
 				 <div className = 'container mt4 maeemo'>
 				 <div className = "row">
 
-				 	  	<div  style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
+				 	  	<div  style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pt2 pb0-ns pb2 tc tl-ns pt2 pl4">
 								
 									<h3>Mama and Mini fitness classes</h3> 
 									<p>These are created with a 
@@ -87,7 +91,7 @@ const Curriculum = () => {
 						</div>
 
 						<div id="3"  className = " f3 pb3 pt4"  > </div>
-				<div className= "black pl4">
+				<div className= "black pl0 pl4=ns">
 
 				 <div className = 'container mt4 maeemo'>
 				 <div className = "row">
@@ -95,7 +99,7 @@ const Curriculum = () => {
 				      		<img  alt='robots' 
 				      			src='./1.jpg' className = "hey"/>
 				      	</div>
-				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
+				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 pt4 tc tl-ns pt2 pl4">
 								
 									<h3>Extracurricular clubs</h3> 
 									<p> 
@@ -108,12 +112,16 @@ const Curriculum = () => {
 						</div>
 						</div>
 
-						<div id="4" className = "f3 pb3 pt4"  > </div>
-				<div className= "black pl4">
+						<div style = {{ width: 'auto'}}className = 'horse tc ml4 mr4 pb4 pa1'>
+    
+      	</div>
+
+						<div id="4" className = "f3 pb3-ns pt4-ns"  > </div>
+				<div className= "black pl0 pl4=ns">
 
 				 <div className = 'container mt4 maeemo'>
 				 <div className = "row">
-				 	  	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl pt2 pl4">
+				 	  	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 tl-ns tc pt2 pl4">
 								
 									<h3>'Stay and play’</h3> 
 									<p>
