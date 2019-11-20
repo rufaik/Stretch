@@ -16,9 +16,17 @@ email: './t1.svg'
 
 {
 id: 3,
+name: 'What Our Qualifcations Are',
+email: './t2.svg'
+
+},
+
+{
+id: 4,
 name: 'What They Say',
-email: './today1.svg'
+email: './q3.svg'
 
 }
+
 
 ]

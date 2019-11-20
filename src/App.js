@@ -8,6 +8,7 @@ import About from './About'
 import Gold from './Gold'
 import Home from './Home'
 import ThankYou from './ThankYou'
+import Cred from './Cred'
 import {
   Route,
   Switch,
@@ -32,6 +33,7 @@ const App = () => {
       <Route exact path ={"/Curriculum"} component={Curriculum} />
       <Route exact path ={"/Testimonials"} component={Testimonials} />
       <Route exact path ={"/ThankYou"} component={ThankYou} />
+      <Route exact path ={"/Cred"} component={Cred} />
 
     
 
