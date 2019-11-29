@@ -16,7 +16,7 @@ const Testimonials = () => {
     <div className = 'container mt4 maeemo'>
 				    	<div>
 				      		<img  alt='robots' 
-				      			src='./newg.jpg'width="470" />
+				      			src='./images/newg.jpg'width="470" />
 				      	</div>
 				          	
 							

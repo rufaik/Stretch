@@ -17,7 +17,7 @@ const Cred = () => {
 				 <div className = "row">
 				    	<div className ="col-12 center right-2-ns col-md-5"  >
 				      		<img alt='robots' 
-				      			src='./JDD.png' width="470"/>
+				      			src='./images/JDD.png' width="470"/>
 				      			
 				      	</div>
 				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-7  pageinfo f4 f5-ns pa4 pb0 pt4 tc tl-ns pt2 pl4">

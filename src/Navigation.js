@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
 import './Navigation.css'
-import LogoHeader from './Logo header'
+import LogoHeader from './LogoHeader'
 
 
 class Navigation extends Component{

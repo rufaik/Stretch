@@ -1,7 +1,7 @@
 import React from 'react';
 import './Logo.css';
 import {Link} from 'react-router-dom';
-import LogoHeader from './Logo header'
+import LogoHeader from './LogoHeader'
 import './Curriculum.css'
  import Navigation from './Navigation'
  
@@ -42,7 +42,7 @@ const Curriculum = () => {
 				 <div className = "row">
 				    	<div className = "col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./9.jpg' className = "hey"/>
+				      			src='./images/9.jpg' className = "hey"/>
 				      	</div>
 				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pt4 pt2-ns  pa4 pb0 tc tl-ns pt2 pl4">
 								
@@ -84,7 +84,7 @@ const Curriculum = () => {
 
 				    	<div className = "col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./00.jpg' className = "hey"/>
+				      			src='./images/00.jpg' className = "hey"/>
 				      	</div>
 				        </div>
 						</div>
@@ -97,7 +97,7 @@ const Curriculum = () => {
 				 <div className = "row">
 				    	<div className ="col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./1.jpg' className = "hey"/>
+				      			src='./images/1.jpg' className = "hey"/>
 				      	</div>
 				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pa4 pb0 pt4 tc tl-ns pt2 pl4">
 								
@@ -134,7 +134,7 @@ const Curriculum = () => {
 
 				    	<div className ="col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./4.jpg' className = "hey" />
+				      			src='./images/4.jpg' className = "hey" />
 				      	</div>
 				        </div>
 						</div>

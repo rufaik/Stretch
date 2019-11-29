@@ -15,7 +15,7 @@ const About = () => {
 				 <div className = "row">
 				    	<div className = "col-12 col-md-6" style = {{ alignSelf: 'center'}} >
 				      		<img  alt='robots' 
-				      			src='./newg.jpg'width="470" />
+				      			src='./images/newg.jpg'width="470" />
 				      	</div>
 				          	<div style = {{ alignSelf: 'center'}} className = "col-12 col-md-6 pageinfo f4 pt4 pt2-ns  pa4 pb0 tc tl-ns pt2 pl4">
 								
@@ -48,7 +48,7 @@ const About = () => {
 						</div>
 				    	<div className = "col-12 col-md-6 pb4" style = {{ alignSelf: 'center'}} >
 				      		<img alt='robots' 
-				      			src='./skate.jpg' width="470" />
+				      			src='./images/skate.jpg' width="470" />
 				      	</div>
 				      	</div>
 				
